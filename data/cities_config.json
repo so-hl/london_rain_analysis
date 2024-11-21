@@ -1,0 +1,8 @@
+{
+    "Africa": ["NG,Abuja", "EG,Cairo", "ZA,Johannesburg", "KE,Nairobi", "MA,Casablanca", "GH,Accra"],
+    "Asia": ["KZ,Almaty", "TH,Bangkok", "AE,Dubai", "TR,Istanbul", "ID,Jakarta", "MY,Kuala Lumpur", "IN,New Delhi", "KR,Seoul", "SG,Singapore", "JP,Tokyo"],
+    "Europe": ["GR,Athens", "DE,Berlin", "FI,Helsinki", "RU,Moscow", "NO,Oslo", "FR,Paris", "IT,Rome", "ES,Madrid", "AT,Vienna"],
+    "North America": ["MX,Mexico City", "US,New York City", "CA,Toronto", "US,Washington", "US,Chicago", "US,Los Angeles"],
+    "Oceania": ["NZ,Auckland", "AU,Canberra", "AU,Sydney", "AU,Melbourne"],
+    "South America": ["BR,Brasília", "PE,Lima", "BR,Rio de Janeiro", "AR,Bueno Aires", "CL,Santiago"]
+}
