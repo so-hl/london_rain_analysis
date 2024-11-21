@@ -1,4 +1,4 @@
-## "Is London really as rainy as the movies make it out to be?"
+# "Is London really as rainy as the movies make it out to be?"
 Summative submitted and selected as the model repository for LSE DS105 Data for Data Science
 
 ## **1. About**
