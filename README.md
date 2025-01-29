@@ -1,6 +1,6 @@
 # "Is London really as rainy as the movies make it out to be?"
-Summative submitted and selected as the model repository for LSE DS105 Data for Data Science
-Score: 95/100
+**Summative submitted and selected as the model repository for LSE DS105 Data for Data Science**  
+**Score: 95/100**
 
 ## **1. About**
 
